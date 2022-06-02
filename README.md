@@ -23,3 +23,10 @@
 7. screen ./server 23 1000 (port)
 8. sudo ./server (port) 1000 (port) (If step 7 doesn't work)</pre></code>
    <div>
+
+<div>
+  <h2>Recommended Hosting</h2><lu>
+  <li><a href="https://sacred.sbs/">Sacred Hosting</a>
+  <li><a href="https://www.cloudways.com/en/">Cloudways</a>
+  <li><a href="https://crazyrdp.com/linux-vps-hosting/">CrazyRDP</a>
+    <div>
