@@ -21,7 +21,7 @@
 5. gcc server.c -o server -pthread
 6. nano login.txt (username password role mm/dd/yy)
 7. screen ./server 23 1000 (port)
-8. sudo ./server (port) 1000 (port) (If step 7 doesn't work)</pre></code>
+8. sudo ./server 23 1000 (port) (If step 7 doesn't work)</pre></code>
    <div>
 
 <div>
