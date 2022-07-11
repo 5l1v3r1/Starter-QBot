@@ -1,5 +1,5 @@
 <h2>Starter-QBot</h2>
-<p>This is a starter Qbot for a script kiddies getting into ddosing and IoT.</p>
+<p>This is a starter Qbot for script kiddies getting into ddosing and IoT.</p>
 
 <div>
   <h2>Requirements</h2><lu>
