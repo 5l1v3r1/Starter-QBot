@@ -11,8 +11,8 @@ else:
     
 bot = sys.argv[1]
 
-yourafag = raw_input("Wanna get Da Archs? y/n [Just choose 'y']:")
-if yourafag.lower() == "y":
+ans = raw_input("Wanna get Da Archs? y/n [Just choose 'y']:")
+if ans.lower() == "y":
     get_arch = True
 else:
     get_arch = False
